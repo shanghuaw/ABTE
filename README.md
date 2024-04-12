@@ -1,3 +1,3 @@
 # shanghua.github.io
  
-Engineering work in NUDT for Wen Shanghua.
+Auction-Based Behavior Tree Evolution for Heterogeneous Multi-Agent Systems.
