@@ -1,0 +1,13 @@
+Generation:
+20
+
+Phenotype:
+Seq_AvoidObstacle_ExecuteRescue_GetMission_MoveToMission_Carry?_ReachMission?_MoveToMission_/Seq
+
+Genotype:
+[55338, 60711, 63220, 90478, 23930, 8222, 62850, 59109, 76983, 32412, 6022, 20629, 68285, 7831, 54199, 51865, 72039, 76053, 13873, 51148, 10760, 82636, 89649, 10439]
+Tree:
+(<root> Seq (<executions> (<actions> (<action> _AvoidObstacle) (<actions> (<action> _ExecuteRescue) (<actions> (<action> _GetMission) (<actions> (<action> _MoveToMission))))) (<conditions> (<condition> _Carry?) (<conditions> (<condition> _ReachMission?)))) (<actions> (<action> _MoveToMission)) _/Seq)
+
+Fitness:
+10015

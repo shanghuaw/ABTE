@@ -1,0 +1,9 @@
+<root> ::= Sel_TaskDone?<sequence>_/Sel
+<sequence> ::= _Seq<executions>_/Seq | _Seq<selectors>_/Seq | _Seq<selectors><executions>_/Seq
+<selector> ::= _Sel<executions>_/Sel | _Sel<sequences>_/Sel | _Sel<sequences><executions>_/Sel
+<sequences> ::= <sequence><sequences> | <sequence>
+<selectors> ::= <selector><selectors> | <selector>
+<executions> ::= <condition><actions> | <actions>
+<actions> ::= <action><actions> | <action>
+<condition> ::= _PlacedCube0? | _PlacedCube1? | _PlacedCube2? | _HoldCube?
+<action> ::= _MoveToCube0 | _MoveToCube1 | _MoveToCube2 | _PickObject | _MoveToPlace | _PlaceObject

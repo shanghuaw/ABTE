@@ -1,0 +1,13 @@
+Generation:
+20
+
+Phenotype:
+Seq_ExecuteOutFire_Rescue?_OutFire?_Rescue?_Sel_ExecuteRescue_Seq_ReachMission?_ExecuteOutFire_/Seq_/Sel_/Seq
+
+Genotype:
+[16240, 19185, 3699, 77278, 49378, 1677, 15650, 30248, 59285, 27897, 54380, 78320, 35229, 4061, 79504, 67578, 16393, 89051, 40398, 78423, 10961, 93262]
+Tree:
+(<root> Seq (<executions> (<actions> (<action> _ExecuteOutFire)) (<conditions> (<condition> _Rescue?) (<conditions> (<condition> _OutFire?) (<conditions> (<condition> _Rescue?))))) (<selector> _Sel (<action> _ExecuteRescue) (<sequence> _Seq (<condition> _ReachMission?) (<action> _ExecuteOutFire) _/Seq) _/Sel) _/Seq)
+
+Fitness:
+10015

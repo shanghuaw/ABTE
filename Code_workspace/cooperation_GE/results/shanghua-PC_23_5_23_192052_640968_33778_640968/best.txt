@@ -1,0 +1,13 @@
+Generation:
+200
+
+Phenotype:
+Seq_CheckState_GetMission_CheckState_Sel_MoveToMission_Seq_IsBlocked?_AvoidObstacle_/Seq_/Sel_ReachMission?_Sel_Seq_Carry?_ExecuteCarry_/Seq_Seq_Carry?_ExecuteCarry_/Seq_Seq_Rescue?_ExecuteRescue_/Seq_Seq_Rescue?_ExecuteRescue_/Seq_Seq_OutFire?_ExecuteOutFire_/Seq_Seq_OutFire?_ExecuteOutFire_/Seq_/Sel_/Seq
+
+Genotype:
+[91928, 42578, 70296, 80400, 49636, 87009, 18822, 67756, 79218, 33420, 8079, 21797, 70616, 74844, 91820, 70962, 85501, 40617, 15078, 51175, 82974, 33484, 42210, 72076, 95561, 90909, 91012, 34040, 40472, 46147, 62919, 22482, 9646, 24030, 28671, 36072, 77891, 48514, 10982, 58390]
+Tree:
+(<root> Seq (<actions> (<action> _CheckState) (<actions> (<action> _GetMission) (<actions> (<action> _CheckState)))) (<move&avoid> _Sel_MoveToMission_Seq_IsBlocked?_AvoidObstacle_/Seq_/Sel) _ReachMission? (<selector> _Sel (<sequences> (<sequence> _Seq (<execution> _Carry?_ExecuteCarry) _/Seq) (<sequences> (<sequence> _Seq (<execution> _Carry?_ExecuteCarry) _/Seq) (<sequences> (<sequence> _Seq (<execution> _Rescue?_ExecuteRescue) _/Seq) (<sequences> (<sequence> _Seq (<execution> _Rescue?_ExecuteRescue) _/Seq) (<sequences> (<sequence> _Seq (<execution> _OutFire?_ExecuteOutFire) _/Seq) (<sequences> (<sequence> _Seq (<execution> _OutFire?_ExecuteOutFire) _/Seq))))))) _/Sel) _/Seq)
+
+Fitness:
+9995

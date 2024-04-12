@@ -1,0 +1,13 @@
+Generation:
+50
+
+Phenotype:
+Seq_ExecuteOutFire_ReachMission?_ExecuteCarry_AvoidObstacle_ExecuteRescue_/Seq
+
+Genotype:
+[61101, 57052, 75279, 46282, 51465, 20931, 52448, 45331, 20124, 47932, 90153, 65986, 3335, 80546, 15858, 84230, 32464, 12496]
+Tree:
+(<root> Seq (<executions> (<actions> (<action> _ExecuteOutFire)) (<conditions> (<condition> _ReachMission?))) (<actions> (<action> _ExecuteCarry) (<actions> (<action> _AvoidObstacle) (<actions> (<action> _ExecuteRescue)))) _/Seq)
+
+Fitness:
+10015

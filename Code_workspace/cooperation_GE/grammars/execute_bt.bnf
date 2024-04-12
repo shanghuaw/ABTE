@@ -1,0 +1,8 @@
+<root> ::= Seq<actions>_ReachMission?<selector>_/Seq
+<selector> ::= _Sel<sequences>_/Sel
+<sequence> ::= _Seq<execution>_/Seq
+<sequences> ::= <sequence><sequences> | <sequence>
+<actions> ::= <action><actions> | <action>
+<move&avoid> ::= _Sel_MoveToMission_Seq_IsBlocked?_AvoidObstacle_/Seq_/Sel
+<action> ::= _CheckState | _GetMission | _MoveToMission | <move&avoid>
+<execution> ::= _Rescue?_ExecuteRescue | _OutFire?_ExecuteOutFire | _Carry?_ExecuteCarry

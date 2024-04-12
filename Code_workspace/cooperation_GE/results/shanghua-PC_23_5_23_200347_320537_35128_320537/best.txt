@@ -1,0 +1,13 @@
+Generation:
+2
+
+Phenotype:
+Seq_MoveToMission_ReachMission?_Sel_Seq_Carry?_ExecuteCarry_/Seq_/Sel_/Seq
+
+Genotype:
+[67036, 73653, 74890, 58750, 87167, 15819, 69980, 23841, 94298, 20095]
+Tree:
+(<root> Seq (<actions> (<action> _MoveToMission)) _ReachMission? (<selector> _Sel (<sequences> (<sequence> _Seq (<execution> _Carry?_ExecuteCarry) _/Seq)) _/Sel) _/Seq)
+
+Fitness:
+10015

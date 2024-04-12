@@ -1,0 +1,13 @@
+Generation:
+20
+
+Phenotype:
+Seq_ExecuteOutFire_OutFire?_OutFire?_Rescue?_OutFire?_Carry?_Carry?_OutFire?_MoveToMission_ExecuteCarry_ExecuteCarry_/Seq
+
+Genotype:
+[53907, 60283, 23851, 73008, 21472, 72373, 34386, 43793, 18990, 72627, 71232, 12473, 29296, 55984, 29006, 48309, 23803, 37013, 12866, 17418, 71888, 12144, 90913, 75424, 80165, 61226, 83728, 19958, 27626, 21790, 51194, 38175, 50991, 56048, 9657, 61652]
+Tree:
+(<root> Seq (<executions> (<actions> (<action> _ExecuteOutFire)) (<conditions> (<condition> _OutFire?) (<conditions> (<condition> _OutFire?) (<conditions> (<condition> _Rescue?) (<conditions> (<condition> _OutFire?) (<conditions> (<condition> _Carry?) (<conditions> (<condition> _Carry?) (<conditions> (<condition> _OutFire?))))))))) (<actions> (<action> _MoveToMission) (<actions> (<action> _ExecuteCarry) (<actions> (<action> _ExecuteCarry)))) _/Seq)
+
+Fitness:
+10015

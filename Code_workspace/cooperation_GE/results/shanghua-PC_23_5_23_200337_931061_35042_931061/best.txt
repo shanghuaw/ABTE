@@ -1,0 +1,13 @@
+Generation:
+2
+
+Phenotype:
+Seq_Sel_MoveToMission_Seq_IsBlocked?_AvoidObstacle_/Seq_/Sel_MoveToMission_MoveToMission_ReachMission?_Sel_Seq_Carry?_ExecuteCarry_/Seq_/Sel_/Seq
+
+Genotype:
+[88451, 36908, 5011, 55713, 12332, 41102, 83379, 2302, 20490, 47239, 31004, 48323, 43301, 69574, 45329, 17976, 95612, 45011]
+Tree:
+(<root> Seq (<actions> (<action> (<move&avoid> _Sel_MoveToMission_Seq_IsBlocked?_AvoidObstacle_/Seq_/Sel)) (<actions> (<action> _MoveToMission) (<actions> (<action> _MoveToMission)))) _ReachMission? (<selector> _Sel (<sequences> (<sequence> _Seq (<execution> _Carry?_ExecuteCarry) _/Seq)) _/Sel) _/Seq)
+
+Fitness:
+10015

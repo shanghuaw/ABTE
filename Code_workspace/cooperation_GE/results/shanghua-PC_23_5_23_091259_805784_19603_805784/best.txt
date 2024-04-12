@@ -1,0 +1,13 @@
+Generation:
+100
+
+Phenotype:
+Seq_ExecuteCarry_AvoidObstacle_Rescue?_IsBlocked?_Sel_CheckState_Seq_AvoidObstacle_IsBlocked?_/Seq_/Sel_Rescue?_Sel_ExecuteCarry_Seq_Rescue?_ExecuteOutFire_/Seq_/Sel_/Seq
+
+Genotype:
+[26945, 23599, 49468, 12942, 19211, 40197, 86448, 15600, 85689, 42602, 49386, 21448, 37049, 2039, 87461, 84644, 19814, 32222, 53451, 95192, 73166, 50117, 76550, 50059, 64065, 54707, 50279, 54108, 80845, 45533, 43194, 36942, 42858, 74039]
+Tree:
+(<root> Seq (<executions> (<actions> (<action> _ExecuteCarry) (<actions> (<action> _AvoidObstacle))) (<conditions> (<condition> _Rescue?) (<conditions> (<condition> _IsBlocked?)))) (<selector> _Sel (<action> _CheckState) (<sequence> _Seq (<execution> (<action> _AvoidObstacle) (<condition> _IsBlocked?)) _/Seq) _/Sel) (<condition> _Rescue?) (<selector> _Sel (<action> _ExecuteCarry) (<sequence> _Seq (<execution> (<condition> _Rescue?) (<action> _ExecuteOutFire)) _/Seq) _/Sel) _/Seq)
+
+Fitness:
+10015

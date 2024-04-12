@@ -1,0 +1,13 @@
+Generation:
+10
+
+Phenotype:
+Seq_CheckState_Sel_MoveToMission_GetMission_Seq_ReachTarget?_GetMission_AvoidObstacle_GetMission_/Seq_/Sel_ReachTarget?_ExecuteMission_MoveToMission_GetMission_/Seq
+
+Genotype:
+[7042, 24885, 70060, 37980, 28390, 1032, 74873, 42011, 12611, 37828, 6455, 7436, 11456, 85468, 43498, 27069, 35321, 59658, 98719, 17748, 63414, 33104, 52057, 94429, 86106, 20071, 22427, 14052, 27609, 45925, 79318, 12751, 6668, 95726, 88452, 18142, 29959, 6053, 40687, 23661, 80763, 45741, 59373, 93129, 85168, 261, 80880, 24401, 35055, 28089, 66785, 67635, 67166, 97839, 93915, 87404, 55360]
+Tree:
+None
+
+Fitness:
+10000

@@ -1,0 +1,13 @@
+Generation:
+1
+
+Phenotype:
+Seq_CheckState_GetMission_Sel_MoveToMission_Seq_IsBlocked?_AvoidObstacle_/Seq_/Sel_Sel_MoveToMission_Seq_IsBlocked?_AvoidObstacle_/Seq_/Sel_ReachMission?_Sel_Seq_Carry?_ExecuteCarry_/Seq_Seq_Rescue?_ExecuteRescue_/Seq_Seq_Carry?_ExecuteCarry_/Seq_Seq_Carry?_ExecuteCarry_/Seq_Seq_Rescue?_ExecuteRescue_/Seq_Seq_OutFire?_ExecuteOutFire_/Seq_Seq_Carry?_ExecuteCarry_/Seq_Seq_Rescue?_ExecuteRescue_/Seq_Seq_OutFire?_ExecuteOutFire_/Seq_Seq_Rescue?_ExecuteRescue_/Seq_/Sel_/Seq
+
+Genotype:
+[45470, 12382, 59740, 60088, 85257, 43316, 86999, 30627, 18397, 49679, 51190, 64699, 24032, 80216, 19535, 738, 86709, 79431, 72380, 24730, 68453, 12916, 37521, 60779, 21336, 47147, 92427, 98824, 31205, 98098, 5642, 29611, 38543, 48488, 58867, 43605, 5230, 96386, 69397, 23195, 65379, 3330, 83239, 98916, 6277, 86853, 24930, 6764, 16530, 70733, 11306, 52678, 53003, 23849, 4400, 12871, 81357, 39403, 7160, 2567, 93106, 59014, 77779]
+Tree:
+(<root> Seq (<actions> (<action> _CheckState) (<actions> (<action> _GetMission) (<actions> (<action> (<move&avoid> _Sel_MoveToMission_Seq_IsBlocked?_AvoidObstacle_/Seq_/Sel)) (<actions> (<action> (<move&avoid> _Sel_MoveToMission_Seq_IsBlocked?_AvoidObstacle_/Seq_/Sel)))))) _ReachMission? (<selector> _Sel (<sequences> (<sequence> _Seq (<execution> _Carry?_ExecuteCarry) _/Seq) (<sequences> (<sequence> _Seq (<execution> _Rescue?_ExecuteRescue) _/Seq) (<sequences> (<sequence> _Seq (<execution> _Carry?_ExecuteCarry) _/Seq) (<sequences> (<sequence> _Seq (<execution> _Carry?_ExecuteCarry) _/Seq) (<sequences> (<sequence> _Seq (<execution> _Rescue?_ExecuteRescue) _/Seq) (<sequences> (<sequence> _Seq (<execution> _OutFire?_ExecuteOutFire) _/Seq) (<sequences> (<sequence> _Seq (<execution> _Carry?_ExecuteCarry) _/Seq) (<sequences> (<sequence> _Seq (<execution> _Rescue?_ExecuteRescue) _/Seq) (<sequences> (<sequence> _Seq (<execution> _OutFire?_ExecuteOutFire) _/Seq) (<sequences> (<sequence> _Seq (<execution> _Rescue?_ExecuteRescue) _/Seq))))))))))) _/Sel) _/Seq)
+
+Fitness:
+56.43488913511872

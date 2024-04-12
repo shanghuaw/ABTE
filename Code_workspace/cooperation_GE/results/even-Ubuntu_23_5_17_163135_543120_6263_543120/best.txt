@@ -1,0 +1,13 @@
+Generation:
+10
+
+Phenotype:
+Seq_CheckState_GetMission_Sel_AvoidObstacle_MoveToMission_MoveToMission_Seq_ReachTarget?_AvoidObstacle_CheckState_/Seq_/Sel_IsBlocked?_AvoidObstacle_/Seq
+
+Genotype:
+[94428, 55012, 25130, 57823, 89046, 81599, 33150, 71323, 9268, 9692, 88951, 72402, 26084, 44873, 42171, 60608, 1023, 46503, 17145, 91855, 32734, 90717, 91068]
+Tree:
+None
+
+Fitness:
+10010

@@ -1,0 +1,13 @@
+Generation:
+500
+
+Phenotype:
+Seq_AvoidObstacle_CheckState_MoveToMission_MoveToMission_Sel_GetMission_/Sel_AvoidObstacle_MoveToMission_/Seq
+
+Genotype:
+[63426, 68260, 71783, 83586, 415, 87204, 14597, 31611, 24132, 93720, 27524, 40117, 35841, 50736, 42886, 72173, 7811, 40237, 41247, 60858, 59632, 77489, 74555, 46547, 83776, 8015, 25851]
+Tree:
+(<root> Seq (<actions> (<action> _AvoidObstacle) (<actions> (<action> _CheckState) (<actions> (<action> _MoveToMission) (<actions> (<action> _MoveToMission))))) (<selector> _Sel (<executions> (<actions> (<action> _GetMission))) _/Sel) (<executions> (<actions> (<action> _AvoidObstacle) (<actions> (<action> _MoveToMission)))) _/Seq)
+
+Fitness:
+10000

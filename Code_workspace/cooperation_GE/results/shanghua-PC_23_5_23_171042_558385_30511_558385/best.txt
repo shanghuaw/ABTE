@@ -1,0 +1,13 @@
+Generation:
+50
+
+Phenotype:
+Seq_ExecuteCarry_GetMission_Sel_ExecuteOutFire_Seq_OutFire?_ExecuteRescue_/Seq_/Sel_Carry?_Sel_Seq_Carry?_GetMission_/Seq_/Sel_/Seq
+
+Genotype:
+[97640, 69600, 91160, 90863, 47314, 18672, 20508, 18379, 56633, 91704, 14439, 21169, 65693, 17244, 93914, 65570, 26859, 45211, 44510, 70920, 11591, 53503, 44508, 4647]
+Tree:
+(<root> Seq (<actions> (<action> _ExecuteCarry) (<actions> (<action> _GetMission))) (<selector> _Sel (<action> _ExecuteOutFire) (<sequence> _Seq (<condition> _OutFire?) (<action> _ExecuteRescue) _/Seq) _/Sel) (<condition> _Carry?) (<selector> _Sel (<sequences> (<sequence> _Seq (<condition> _Carry?) (<action> _GetMission) _/Seq)) _/Sel) _/Seq)
+
+Fitness:
+10015

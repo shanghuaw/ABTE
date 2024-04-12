@@ -1,0 +1,13 @@
+Generation:
+40
+
+Phenotype:
+Seq_CheckState_GetMission_MoveToMission_Rescue?_ExecuteRescue_/Seq
+
+Genotype:
+[92940, 99713, 164, 48930, 74516, 81236, 53291, 74678, 75885, 96927, 371, 43285, 79247, 8726, 67194, 26306, 94732, 11314]
+Tree:
+(<root> Seq (<executions> (<actions> (<action> _CheckState) (<actions> (<action> _GetMission) (<actions> (<action> _MoveToMission)))) (<conditions> (<condition> _Rescue?))) (<actions> (<action> _ExecuteRescue)) _/Seq)
+
+Fitness:
+10010

@@ -1,0 +1,13 @@
+Generation:
+1
+
+Phenotype:
+Seq_MoveToMission_CheckState_ReachMission?_Sel_Seq_Rescue?_ExecuteRescue_/Seq_Seq_Carry?_ExecuteCarry_/Seq_Seq_Rescue?_ExecuteRescue_/Seq_Seq_OutFire?_ExecuteOutFire_/Seq_/Sel_/Seq
+
+Genotype:
+[95410, 51724, 28914, 90901, 61288, 19928, 78828, 49036, 62631, 39566, 14323, 35939, 16910, 24593, 5832, 35179, 22516, 1003, 78218, 10389, 9034, 94347, 46885, 48722, 45566, 79013, 38663]
+Tree:
+(<root> Seq (<actions> (<action> _MoveToMission) (<actions> (<action> _CheckState))) _ReachMission? (<selector> _Sel (<sequences> (<sequence> _Seq (<execution> _Rescue?_ExecuteRescue) _/Seq) (<sequences> (<sequence> _Seq (<execution> _Carry?_ExecuteCarry) _/Seq) (<sequences> (<sequence> _Seq (<execution> _Rescue?_ExecuteRescue) _/Seq) (<sequences> (<sequence> _Seq (<execution> _OutFire?_ExecuteOutFire) _/Seq))))) _/Sel) _/Seq)
+
+Fitness:
+10015

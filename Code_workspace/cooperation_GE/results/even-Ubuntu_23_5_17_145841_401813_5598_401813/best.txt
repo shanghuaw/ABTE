@@ -1,0 +1,13 @@
+Generation:
+500
+
+Phenotype:
+Seq_CheckState_AvoidObstacle_CheckState_GetMission_ExecuteMission_/Seq
+
+Genotype:
+[3053, 32714, 93215, 14837, 87198, 52184, 50752, 85010, 18222, 64806, 21933, 43514, 88779, 69906, 38936, 87008, 15113, 88069]
+Tree:
+(<root> Seq (<actions> (<action> _CheckState) (<actions> (<action> _AvoidObstacle))) (<executions> (<actions> (<action> _CheckState) (<actions> (<action> _GetMission) (<actions> (<action> _ExecuteMission))))) _/Seq)
+
+Fitness:
+10000

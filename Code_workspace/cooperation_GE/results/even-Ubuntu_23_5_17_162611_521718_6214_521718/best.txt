@@ -1,0 +1,13 @@
+Generation:
+10
+
+Phenotype:
+Seq_MoveToMission_CheckState_Sel_GetMission_GetMission_Seq_ReachTarget?_MoveToMission_GetMission_GetMission_ExecuteMission_GetMission_AvoidObstacle_CheckState_GetMission_CheckState_MoveToMission_CheckState_/Seq_/Sel_ReachTarget?_ExecuteMission_/Seq
+
+Genotype:
+[7964, 59022, 23157, 33667, 29970, 65613, 69528, 63091, 90193, 64621, 99463, 86499, 82903, 32538, 71097, 41822, 54971, 23438, 95831, 72408, 35994, 83482, 75021, 50618, 45218, 34552, 11525, 49352, 9966, 39314, 61205, 35028, 41877, 41405, 4945, 97195, 66121, 55621, 56994, 97378, 152, 43178, 49294, 95892, 33373, 38586, 32036, 2205, 75236, 19085, 28747, 40121, 79574, 83559, 23924, 99893, 49988, 85632]
+Tree:
+(<root> Seq (<actions> (<action> _MoveToMission) (<actions> (<action> _CheckState))) (<selector> _Sel (<actions> (<action> _GetMission) (<actions> (<action> _GetMission))) (<sequence> _Seq (<executions> (<condition> _ReachTarget?) (<actions> (<action> _MoveToMission) (<actions> (<action> _GetMission) (<actions> (<action> _GetMission) (<actions> (<action> _ExecuteMission) (<actions> (<action> _GetMission) (<actions> (<action> _AvoidObstacle) (<actions> (<action> _CheckState) (<actions> (<action> _GetMission) (<actions> (<action> _CheckState) (<actions> (<action> _MoveToMission) (<actions> (<action> _CheckState))))))))))))) _/Seq) _/Sel) (<executions> (<condition> _ReachTarget?) (<actions> (<action> _ExecuteMission))) _/Seq)
+
+Fitness:
+10015

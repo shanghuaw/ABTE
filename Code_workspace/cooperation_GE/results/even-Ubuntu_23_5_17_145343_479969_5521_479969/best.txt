@@ -1,0 +1,13 @@
+Generation:
+100
+
+Phenotype:
+Seq_AvoidObstacle_MoveToMission_/Seq
+
+Genotype:
+[90577, 75803, 99283, 19308, 8547, 77907, 29014, 59833, 51668]
+Tree:
+(<root> Seq (<actions> (<action> _AvoidObstacle)) (<executions> (<actions> (<action> _MoveToMission))) _/Seq)
+
+Fitness:
+10003.162277660169

@@ -1,0 +1,3 @@
+<root> ::= Seq<actions>_/Seq
+<actions> ::= <action><actions> | <action>
+<action> ::= _simCheckState | _simExecuteTask

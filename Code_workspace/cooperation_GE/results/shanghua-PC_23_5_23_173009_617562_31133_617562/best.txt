@@ -1,0 +1,13 @@
+Generation:
+50
+
+Phenotype:
+Seq_AvoidObstacle_IsBlocked?_OutFire?_ExecuteRescue_CheckState_ExecuteCarry_/Seq
+
+Genotype:
+[70899, 51033, 8833, 85949, 59340, 98615, 42703, 76018, 5518, 5688, 88, 24241, 65583, 23575, 4686, 61580, 35698, 92690, 59584, 78095, 23962]
+Tree:
+(<root> Seq (<executions> (<actions> (<action> _AvoidObstacle)) (<conditions> (<condition> _IsBlocked?) (<conditions> (<condition> _OutFire?)))) (<actions> (<action> _ExecuteRescue) (<actions> (<action> _CheckState) (<actions> (<action> _ExecuteCarry)))) _/Seq)
+
+Fitness:
+10015

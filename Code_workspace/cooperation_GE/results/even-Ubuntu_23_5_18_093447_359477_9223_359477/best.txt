@@ -1,0 +1,13 @@
+Generation:
+10
+
+Phenotype:
+Seq_GetMission_CheckState_Sel_ExecuteMission_MoveToMission_Seq_IsBlocked?_ExecuteMission_/Seq_/Sel_ReachTarget?_ExecuteMission_/Seq
+
+Genotype:
+[42500, 54850, 69401, 19565, 17130, 97770, 64326, 10359, 66751, 56532, 7778, 47464, 38254, 75057, 71659, 23229, 48795, 71659, 23229, 42365, 90877, 32315, 88307, 52196, 71577, 38991, 38727, 89559, 34849, 20400, 70325, 71478, 26211, 93151, 29471, 26737, 30196, 70075, 88893]
+Tree:
+None
+
+Fitness:
+27.20925425099138

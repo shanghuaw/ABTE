@@ -1,0 +1,13 @@
+Generation:
+50
+
+Phenotype:
+Seq_CheckState_GetMission_MoveToMission_ReachMission?_Sel_Seq_Rescue?_ExecuteRescue_/Seq_Seq_Carry?_ExecuteCarry_/Seq_Seq_OutFire?_ExecuteOutFire_/Seq_/Sel_/Seq
+
+Genotype:
+[16787, 13766, 69704, 11514, 79457, 68151, 92914, 26140, 65168, 15399, 42495, 85810, 68350, 93818, 45933, 32119, 75325, 92868, 8541, 44]
+Tree:
+None
+
+Fitness:
+68.62205854077835
